@@ -1,0 +1,26 @@
+16 - Mohamed Fawzi - Goalkeeper - 31 years old - €150k
+1 - Omar Salah - Goalkeeper - 26 years old - €75k
+77 - Mohamed Khalifa - Goalkeeper - 21 years old - €75k
+5 - Hady Reyad - Centre-Back - 26 years old - €75k
+6 - Abdallah Mahmoud - Centre-Back - 26 years old -€75k
+15 - Ahmed Bahbah - Centre-Back - 31 years old - €75k
+7 - Zizo - Left-Back - 30 years old - €75k
+3 - Islam Abdallah - Left-Back - 21 years old - €75k
+2 - Ahmed Ghoneim - Right-Back - 25 years old - €75k
+4 - Mahmoud Shedid Kenawi - Right-Back - 33 years old - €75k
+31 - Kelechi Chimezie - Defensive Midfield - 24 years old - €300k
+8 - Mohamed Ali Okasha - Defensive Midfield - 26 years old - €75k
+13 - Ahmed Reda - Defensive Midfield - 24 years old - €75k
+24 - Lucky Emmanuel - Central Midfield - 20 years old - €100k
+14 - Mostafa El Gamal - Central Midfield - 27 years old - €75k
+22 - Ziad Farag - Attacking Midfield - 22 years old - €75k
+10 - Rashad El Metwaly - Attacking Midfield - 23 years old - €75k
+12 - Hamed Hamdan - Attacking Midfield - 24 years old - €75k
+19 - Badr Mousa - Left Winger - 25 years old - €75k
+32 - Mohamed Dodo - Left Winger - 21 years old - €75k
+11 - Khaled Aboziada - Right Winger - 25 years old - €75k
+18 - Tawfik Mohamed - Right Winger - 24 years old - €75k
+29 - Gabriel Chukwudi - Centre-Forward - 21 years old - €150k
+9 - Islam Hesham - Centre-Forward - 27 years old - €75k
+20 - Ismaila Bamba - Centre-Forward - 31 years old - €75k
+21 - Ahmed Farouk - Centre-Forward - 23 years old - €75k

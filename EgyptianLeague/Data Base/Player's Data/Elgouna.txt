@@ -1,0 +1,33 @@
+1 - Ahmed Masoud - Goalkeeper - 32 years old - €150k
+32 - Hassan Mahmoud Shahin - Goalkeeper - 31 years old - €75k
+16 - Amr Shaaban - Goalkeeper - 31 years old - €75k
+72 - Badreldin Walid - Goalkeeper - 18 years old - €75k
+23 - Mohamed Alaa - Goalkeeper - 25 years old - €75k
+5 - Ahmed Hossam - Centre-Back - 23 years old - €250k
+4 - Ahmed Hamed Shousha - Centre-Back - 31 years old - €175k
+13 - Ahmed Abdelrasoul - Centre-Back - 28 years old - €150k
+3 - Ahmed El Aash - Centre-Back - 26 years old - €75k
+33 - Ahmed Reda - Left-Back - 21 years old - €175k
+18 - Alieu Jatta - Left-Back - 29 years old - €25k
+2 - Abdelgawad Taalab - Right-Back - 22 years old - €75k
+6 - Essam Sobhy - Right-Back - 35 years old - €50k
+25 - Kahraba - Right-Back - 25 years old - N/A
+12 - Mahmoud Hassouna - Defensive Midfield - 27 years old -€75k
+14 - Nour El Sayed - Defensive Midfield - 40 years old - €75k
+81 - Obinna Okoronkwo - Defensive Midfield - 20 years old - €75k
+8 - Reda Salah - Central Midfield - 26 years old - €200k
+10 - Mohamed Mahmoud - Central Midfield - 26 years old - €150k
+19 - Belal El Sayed - Central Midfield - 23 years old - €75k
+30 - Mohamed Emad - Central Midfield - 23 years old - €50k
+34 - Hassan Samir - Attacking Midfield - 20 years old - €75k
+17 - Hassan Yassin - Attacking Midfield - 28 years old - €75k
+28 - Favour Akem - Left Winger - 20 years old - €300k
+11 - Seif Shika - Left Winger - 23 years old - €75k
+70 - Shamsu Kabeer - Left Winger -  33 years old - €75k
+35 - Mazen Yasser - Right Winger - 21 years old - €175k
+27 - Arnaud Randrianantenaina - Right Winger - 23 years old - €150k
+99 - Ali El Zahdi - Right Winger - 28 years old - €75k
+15 - Oksha - Right Winger - 25 years old - €50k
+29 - Tolulope Samuel Ojo - Right Winger - 21 years old - €50k
+22 - Taiwo Oripelaye - Right Winger - 20 years old - €75k
+9 - Hossam Ghanem - Centre-Forward - 25 years old - €150k

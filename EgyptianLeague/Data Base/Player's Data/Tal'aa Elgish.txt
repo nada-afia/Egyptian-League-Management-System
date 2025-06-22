@@ -1,0 +1,31 @@
+1 - Mohamed Shaaban - Goalkeeper - 30 years old - €300k
+18 - Omar Radwan - Goalkeeper - 27 years old - €75k
+4 - Emad El-Sayed - Goalkeeper - 38 years old - €50k
+51 - Mohamed Camacho - Centre-Back - 31 years old - €350k
+30 - Ahmed Alaa - Centre-Back - 30 years old - €300k
+6 - Moaz El Henawy - Centre-Back - 34 years old - €200k
+3 - Khaled Sotohi - Centre-Back - 35 years old - €125k
+25 - Amro Tarek - Centre-Back - 32 years old - €75k
+31 - Mohamed Diab - Centre-Back - 30 years old - €75k
+21 - Moamen Mahmoud - Centre-Back - 21 years old - €70k
+28 - Ahmed Meteb - Left-Back - 28 years old - €500k
+8 - Hamed El Gabry - Left-Back - 25 years old - €75k
+15 - Ahmed Zola - Right-Back - 31 years old - €400k
+33 - Hassan Magdy - Right-Back - 34 years old - €75k
+13 - Khaled Awad - Right-Back - 21 years old - €50k
+5 - Himid Mao Mkami - Defensive Midfield - 32 years old - €300k
+12 - Farid Shawky - Defensive Midfield - 34 years old - €150k
+20 - Islam Mohareb - Central Midfield - 32 years old - €200k
+14 - Ali Hamdi - Central Midfield - 25 years old - €150k
+22 - Emad Fathi - Central Midfield - 31 years old - €125k
+11 - Mostafa El Khawaga - Attacking Midfield - 31 years old - €150k
+23 - Kareem Tarek - Left Winger - 32 years old - €200k
+7 - Moussa Diawara - Left Winger - 30 years old - €150k
+19 - Riga - Left Winger - 30 years old - €50k
+17 - Ahmed Samir - Right Winger - 30 years old - €500k
+10 - Youssry Wahid - Right Winger - 26 years old - €300k
+26 - Ahmed El Sheikh - Right Winger - 34 years old - €250k
+2 - Mohamed Hany - Right Winger - 22 years old - €200k
+9 - Godwin Chika - Centre-Forward - 27 years old - €250k
+35 - Basem Morsy - Centre-Forward - 32 years old - €100k
+21 - Fares Hatem - Centre-Forward - 21 years old - €50k

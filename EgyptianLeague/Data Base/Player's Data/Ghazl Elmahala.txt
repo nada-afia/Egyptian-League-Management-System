@@ -1,0 +1,32 @@
+16 - Amer Amer - Goalkeeper - 37 years old - €100k
+1 - Ahmed El Arabi - Goalkeeper - 32 years old - €50k
+1 - Ahmed El Nafarawy - Goalkeeper - 26 years old - €50k
+5 - Amr El Gazar - Centre-Back - 25 years old - €150k
+72 - Ahmed Castelo - Centre-Back - 25 years old - €100k
+6 - Ahmed Hakam - Centre-Back - 26 years old - €100k
+35 - Abdo Semida - Centre-Back - 21 years old - €75k
+21 - Abdelrahman Body - Centre-Back - 26 years old - €50k
+43 - Mohamed Nabih - Centre-Back - 18 years old - €50k
+12 - Hamidu Abdul Fatawu - Left-Back - 25 years old - €125k
+2 - Yehia Zakaria - Left-Back - 22 years old - €100k
+33 - Bassam Walid - Right-Back - 26 years old - €150k
+24 - Osama El Nagar - Right-Back - 24 years old - €75k
+38 - Abdelrahim Amoory - Right-Back - 26 years old - €50k
+80 - Abdoul Aziz Coulibaly - Right-Back - 18 years old - €75k
+25 - Youssef Hassan - Defensive Midfield - 26 years old - €100k
+33 - Mohamed Ashraf - Defensive Midfield - 23 years old - €50k
+7 - Mory Touré - Defensive Midfield - 21 years old - €75k
+88 - Mohamed Gaber - Central Midfield - 34 years old - €150k
+10 - Mohamed Osama - Central Midfield - 25 years old - €50k
+14 - Ahmed Magdy - Attacking Midfield - 34 years old - €50k
+9 - Khaled El Akhmimi - Attacking Midfield - 28 years old - €50k
+19 - Abdo Yehia - Left Winger - 25 years old - €150k
+28 - Mohamed Essam - Left Winger - 27 years old - €75k
+91 - Hossam Greisha - Left Winger - 27 years old - €75k
+13 - Mahmoud Sotohi - Left Winger - 21 years old - €25k
+15 - Ibrahim Hassan - Right Winger - 33 years old - €300k
+47 - Mohamed Ashraf - Right Winger - 26 years old - €175k
+20 - Abdelnaser Mohamed - Right Winger - 28 years old - €50k
+11 - Mohamed Ali Ben Hammouda - Centre-Forward - 26 years old - €600k
+23 - Mohamed Hamdi - Centre-Forward - 32 years old - €200k
+78 - Hazem Abosena - Centre-Forward - 23 years old - €50k

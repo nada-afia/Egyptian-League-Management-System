@@ -1,0 +1,34 @@
+25-Mohamed Shika: Goalkeeper, 31, €250k
+16-Mohamed Nadim: Goalkeeper, 23, €50k
+1-Fares El Sayed: Goalkeeper, 23, €25k
+100-Abdelrahman Nafad: Goalkeeper, 20, €30k
+4-Ahmed Awad: Centre-Back, 29, €150k
+12-Yassin Marei: Centre-Back, 23, €150k
+8-Ramy Sabry: Centre-Back, 37, €100k
+33-Babacar Ndiaye: Centre-Back, 20, €100k
+6-Gaber Kamel: Left-Back, 29, €100k
+21-Azmi Ghouma: Left-Back, 26, €100k
+17-Jefferson Encada: Right-Back, 26, €200k
+20-Ahmed Gamal: Right-Back, 30, €75k
+33-Mohamed Ayman: Right-Back, 21, €100k
+19-Mahmoud Emad: Defensive Midfield, 26, €150k
+22-Mahmoud Gehad: Defensive Midfield, 23, €75k
+30-Seif El Agouz: Defensive Midfield, 23, €50k
+44-Yassin El Mallah: Defensive Midfield, 20, €70k
+14-Mohamed Fakhri: Central Midfield, 25, €300k
+24-Ahmed El Bahrawi: Central Midfield, 29, €150k
+28-Enoque: Central Midfield, 22, €150k
+55-Mazen Adel: Central Midfield, 21, €400k
+11-Ahmed Fouad: Attacking Midfield, 25, €150k
+77-Zouhair El Moutaraji: Left Winger, 28, €400k
+10-Shokry Naguib: Left Winger, 30, €300k
+29-Saif Thierry: Left Winger, 30, €100k
+99-Khalil Hagy: Left Winger, 26, €50k
+88-Mohamed Ezz: Left Winger, 21, €50k
+18-Walid Farag: Right Winger, 23, €200k
+23-Walid Mostafa: Right Winger, 24, €75k
+32-Omar Reda: Right Winger, 21, €25k
+65-Seif Eldin Rafik: Right Winger, 21, €60k
+7-Amr Nasser: Centre-Forward, 25, €250k
+31-Ahmed Sherif: Centre-Forward, 21, €200k
+70-Salah Basha: Centre-Forward, 21, €50k

@@ -1,0 +1,33 @@
+1 - Ahmed El Shenawy - Goalkeeper - 33 years old - €700k
+28 - Ahmed Mayhoub - Goalkeeper - 28 years old - €100k
+22 - Sherif Ekramy - Goalkeeper - 41 years old - €50k
+16 - Youssef Nader - Goalkeeper - 23 years old - €25k
+3 - Mahmoud Marei - Centre-Back - 26 years old - €800k
+6 - Osama Galal - Centre-Back - 27 years old - €600k
+4 - Ahmed Samy - Centre-Back - 32 years old - €500k
+5 - Ali Gabr - Centre-Back - 35 years old - €400k
+21 - Mohamed Hamdi - Left-Back - 29 years old - €1.20m
+29 - Karim Hafez - Left-Back - 28 years old - €500k
+15 - Mohamed Chibi - Right-Back - 31 years old - €1.20m
+24 - Tarek Alaa - Right-Back - 22 years old - €250k
+12 - Ahmed Tawfik - Right-Back - 33 years old - €150k
+8 - Ibrahim Blati Touré - Defensive Midfield - 30 years old - €1.50m
+14 - Mohanad Lasheen - Defensive Midfield - 28 years old - €1.30m
+13 - Mahmoud Dunga - Defensive Midfield - 31 years old - €175k
+70 - Ahmed Fawzi - Defensive Midfield - 22 years old - €75k
+18 - Walid El Karti - Central Midfield - 30 years old - €1.50m
+17 - Mohamed Reda - Central Midfield - 24 years old - €800k
+23 - Ahmed Atef - Central Midfield - 21 years old - €300k
+7 - Youssef Obama - Attacking Midfield - 28 years old - €800k
+40 - Samuel Amusan - Attacking Midfield - 19 years old - €25k
+30 - Ibrahim Adel - Left Winger - 23 years old - €2.00m
+10 - Ramadan Sobhi - Left Winger - 27 years old - €1.80m
+27 - Sodiq Awujoola - Left Winger - 24 years old - €1.20m
+25 - Youssef Osama Nabih - Left Winger - 24 years old - €150k
+74 - Emad Mayhoub - Left Winger - 23 years old - €100k
+11 - Mostafa Fathi - Right Winger - 30 years old - €1.50m
+20 - Abdelrahman Magdi - Right Winger - 27 years old - €600k
+72 - Amo - Right Winger - 25 years old - €50k
+9 - Fiston Mayele - Centre-Forward - 30 years old - €1.20m
+19 - Marwan Hamdi - Centre-Forward - 28 years old - €350k
+26 - Dodo Elgabas - Centre-Forward - 36 years old - €25k

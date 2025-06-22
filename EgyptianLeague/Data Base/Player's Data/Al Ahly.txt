@@ -1,0 +1,33 @@
+1,Mohamed El Shenawy,Goalkeeper,35,1.80
+31,Oufa Shobeir,Goalkeeper,24,0.60
+16,Hamza Alaa,Goalkeeper,23,0.15
+37,Mostafa Makhlouf,Goalkeeper,21,0.075
+15,Achraf Dari,Centre-Back,25,2.00
+5,Rami Rabia,Centre-Back,31,0.80
+6,Yasser Ibrahim,Centre-Back,31,0.60
+4,Yousef Aymen,Centre-Back,25,0.35
+34,Moataz Mohamed,Centre-Back,19,0.05
+18,Yahia Attiyat Allah,Left-Back,29,2.20
+21,Ali Maâloul,Left-Back,34,0.50
+33,Karim El Debes,Left-Back,21,0.25
+30,Mohamed Hany,Right-Back,28,1.50
+3,Omar Kamal,Right-Back,31,1.20
+2,Khaled Abdelfattah,Right-Back,25,0.20
+13,Marwan Ateya,Defensive Midfield,26,2.20
+36,Ahmed Kouka,Defensive Midfield,23,0.80
+26,Mostafa Aboul-Kheir,Defensive Midfield,20,0.05
+22,Emam Ashour,Central Midfield,26,3.00
+8,Akram Tawfik,Central Midfield,27,1.00
+17,Amr El Solia,Central Midfield,34,0.50
+23,Omar El Saaiy,Central Midfield,21,0.45
+20,Karim Nedved,Central Midfield,27,0.25
+19,Afsha,Attacking Midfield,28,1.20
+14,Hussein El Shahat,Left Winger,32,0.80
+29,Taher Mohamed,Left Winger,27,0.35
+12,Reda Slim,Right Winger,25,2.00
+10,Percy Tau,Right Winger,30,1.50
+28,Karim Fouad,Right Winger,25,0.60
+38,Mohamed Abdallah,Right Winger,19,0.10
+9,Wessam Abou Ali,Centre-Forward,25,3.00
+7,Kahraba,Centre-Forward,30,0.80
+32,Samir Mohamed,Centre-Forward,21,0.10

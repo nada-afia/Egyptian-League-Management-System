@@ -1,0 +1,28 @@
+1-Abdelrahman Samir: Goalkeeper, 24, €250k
+16-Reda El Sayed: Goalkeeper, 32, €150k
+29-Ramadan Mostafa: Goalkeeper, 25, €100k
+4-Ahmed Kalosha: Centre-Back, 25, €600k
+5-Ahmed Sabeha: Centre-Back, 25, €250k
+6-Mohamed Hamed: Centre-Back, 30, €250k
+31-Mohamed Samir: Centre-Back, 23, €100k
+8-Hesham Adel: Centre-Back, 26, €50k
+19-Fathi El Sayed: Left-Back, 22, €50k
+23-Abdallah Adel: Left-Back, 23, €25k
+22-Ahmed El Agouz: Defensive Midfield, 31, €250k
+3-Ahmed Youssef: Defensive Midfield, 25, €150k
+17-Mody Naser: Central Midfield, 23, €250k
+30-Mostafa Dowidar: Left Midfield, 25, €300k
+30-Mostafa Shakshak: Left Midfield, 24, €150k
+38-Suleiman Kirki: Attacking Midfield, 21, €25k
+41-Sheko Mohareb: Attacking Midfield, 24, €50k
+27-Salah Zayed: Left Winger, 23, €100k
+10-Ahmed Nader Hawash: Right Winger, 21, €250k
+7-Rafik Kabou: Right Winger, 32, €200k
+11-Mohamed Sherif: Right Winger, 25, €100k
+21-Ahmed Gamal: Right Winger, 22, €75k
+50-Ali Aboutaleb: Right Winger, 27, €50k
+40-Ziad Tarek: Right Winger, 24, €50k
+9-Oufa: Centre-Forward, 28, €500k
+20-Youssef Labib: Centre-Forward, 23, €150k
+25-Mohamed El Nahas: Centre-Forward, 22, €75k
+62-Mannan Mudasiru: Centre-Forward, 28, €85k

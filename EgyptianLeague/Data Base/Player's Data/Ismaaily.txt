@@ -1,0 +1,31 @@
+1-Ahmed Adel: Goalkeeper, 37, €100k
+16-Kamal El Sayed: Goalkeeper, 25, €100k
+31-Abdallah Gamal: Goalkeeper, 21, €25k
+5-Mohamed Ammar: Centre-Back, 25, €200k
+2-Mohamed Nasr: Centre-Back, 24, €150k
+24-Abdallah Mohamed: Centre-Back, 22, €25k
+12-Abdelkarim Mostafa: Left-Back, 21, €200k
+3-Hatem Sukar: Left-Back, 23, €75k
+40-Mohamed Ehab: Left-Back, 21, €100k
+4-Emad Hamdi: Defensive Midfield, 31, €300k
+6-Mohamed Hassan: Defensive Midfield, 31, €250k
+14-Hesham Mohamed: Defensive Midfield, 34, €75k
+8-Mohamed Bayoumi: Central Midfield, 24, €175k
+20-Abdallah El Said: Central Midfield, 23, €50k
+60-Mahmoud Otaka: Central Midfield, 21, €100k
+37-Ibrahim Abdelaal: Central Midfield, 19,€200k
+30-Eric Traoré: Attacking Midfield, 28, €200k
+19-Abdelrahman El Dah: Attacking Midfield, 25, €50k
+15-Nader Farag: Left Winger, 23, €150k
+22-Ali El Malawany: Left Winger, 25, €50k
+23-Mohamed Wagdi: Left Winger, 22, €25k
+32-Mohamed Khatary: Left Winger, 20, €30k
+9-Marwan Hamdi: Right Winger, 23, €150k
+10-Mohamed Abdelsamia: Right Winger, 24, €150k
+7-Ahmed El Sheikh: Right Winger, 32, €125k
+99-Mohamed El Behiry: Right Winger, 22, €25k
+88-Amr El Said: Right Winger, 21, €25k
+43-Omar El Kot: Right Winger, 19, €30k
+33-Khaled Al-Nabris: Centre-Forward, 21, €50k
+35-Hassan Saber: Centre-Forward, 19, €50k
+11-Mohamed Zidan: Centre-Forward, 23, €25k

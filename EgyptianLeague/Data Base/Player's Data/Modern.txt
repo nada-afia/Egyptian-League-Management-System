@@ -1,0 +1,34 @@
+16 - Mahmoud Genesh - Goalkeeper - 37 years old - €250k
+26 - Mohamed Magdy - Goalkeeper - 29 years old - €200k
+28 - Karim Emad - Goalkeeper - 27 years old - €100k
+1 - Ahmed Yehia - Goalkeeper - 36 years old - €50k
+4 - Mahmoud Rizk - Centre-Back - 31 years old - €250k
+6 - Ali Elfil - Centre-Back - 34 years old - €250k
+24 - Khaled Reda - Centre-Back - 35 years old - €125k
+33 - Abdelrahman Rashdan - Centre-Back - 21 years old - €50k
+5 - Tarek Mohamed - Centre-Back - 24 years old - €50k
+13 - Joseph Ngwem - Left-Back - 33 years old - €600k
+3 - Mohamed Desouki - Left-Back - 26 years old - €250k
+12 - Nader Hesham - Left-Back - 25 years old - €50k
+2 - Basem Ali - Right-Back - 36 years old - €300k
+21 - Mahmoud Shaaban - Right-Back - 29 years old - €150k
+15 - Mostafa Ashraf - Right-Back - 23 years old - €25k
+27 - Ghanam Mohamed - Defensive Midfield - 27 years old - €600k
+8 - Mohamed Nosseir - Defensive Midfield - 25 years old - €100k
+25 - Mohamed Sabry - Defensive Midfield - 24 years old - €50k
+17 - Abdelrahman Shika - Central Midfield - 25 years old - €400k
+7 - Amr El Sisi - Central Midfield - 30 years old - €300k
+22 - Ali Zazaa - Central Midfield - 23 years old - €150k
+34 - Kabaka - Central Midfield - 19 years old - €100k
+14 - Ahmed Mostafa - Attacking Midfield - 27 years old - €150k
+11 - Abdallah Hafez - Attacking Midfield - 26 years old - €25k
+80 - Frederick Kesse - Attacking Midfield - 19 years old - €25k
+23 - Mohamed Amissi - Left Winger - 24 years old - €75k
+32 - Omar Fishawy - Left Winger - 19 years old - €50k
+70- Ibraheem Mahfus Ajasa - Left Winger - 18 years old - €50k
+38 - Arnold Eba - Right Winger - 21 years old - €250k
+19 - Mohamed Mosaad - Right Winger - 23 years old - €100k
+9 - Ahmed Atef - Centre-Forward - 26 years old - €400k
+18 - Fejiri Okenabirhie - Centre-Forward - 28 years old - €175k
+20 - Enock Sakala - Centre-Forward - 22 years old - €75k
+29 - Diyaa El Sayed - Centre-Forward - 23 years old - €50k

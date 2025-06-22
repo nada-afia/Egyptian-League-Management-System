@@ -1,0 +1,41 @@
+1,Mohamed Bassam,Goalkeeper,33,0.5
+16,Ali El Gabry,Goalkeeper,23,0.1
+23,Mohamed Koko,Goalkeeper,33,0.1
+13,Islam Reisha,Goalkeeper,27,0.05
+17,Ahmed Ramadan,Centre-Back,27,0.8
+5,Ragab Nabil,Centre-Back,31,0.35
+6,Saad Samir,Centre-Back,35,0.125
+34,Ahmed Abdin,Centre-Back,18,0.075
+55,Islam El Mizzayn,Centre-Back,23,0.05
+66,Mohamed Samy,Centre-Back,23,0.025
+3,Mohamed Shokry,Left-Back,25,1
+27,Hussein El Sayed,Left-Back,33,0.35
+77,Alaa Yehia,Left-Back,23,0.075
+88,Youssef Afifi,Left-Back,23,0.075
+2,Ahamed Hany,Right-Back,27,0.3
+22,Body,Right-Back,31,0.15
+99,Youssef Abdelhafiz,Right-Back,19,0.075
+22,Mahmoud El Ziny,Right-Back,23,0
+21,Mohamed Adel,Defensive Midfield,29,0.45
+14,Mohamed Tony,Defensive Midfield,28,0.3
+24,Justice Arthur,Defensive Midfield,26,0.15
+12,Hema Mohamed,Defensive Midfield,24,0.1
+71,Hussein Hosny,Defensive Midfield,24,0.05
+76,Mohamed Fayez,Defensive Midfield,21,0.078
+11,Ahmed Kendouci,Central Midfield,25,2
+10,Ahamed Belhadji,Central Midfield,27,1
+28,Amr Kalawa,Central Midfield,27,0.4
+19,Islam Issa,Central Midfield,28,0.35
+8,Abdallah Magdy,Central Midfield,27,0.3
+20,Mohamed Sadek,Central Midfield,27,0.25
+78,Mohamed Reda,Central Midfield,22,0.08
+79,Mohamed Essam,Attacking Midfield,19,0.05
+9,Ayman Mukka,Left Winger,27,0.3
+7,Zalaka,Left Winger,25,0.2
+72,Nour Alaa,Left Winger,21,0.075
+81,Ahamed Ashraf,Right Winger,20,0.05
+85,Abasi Kyeyune,Right Winger,19,0.055
+15,Fagrie Lakay,Centre-Forward,27,0.8
+18,John Ebuka,Centre-Forward,28,0.5
+29,Marwan Otaka,Centre-Forward,22,0.15
+44,Abdulkareem Mumuni,Centre-Forward,21,0.1

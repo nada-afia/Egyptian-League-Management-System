@@ -1,0 +1,32 @@
+1-Ali Lotfi: Goalkeeper, 35, €250k
+16-Amr Hossam: Goalkeeper, 33, €200k
+29-Mohamed Mazzika: Goalkeeper, 30, €50k
+12-Mostafa El Aash: Centre-Back, 24, €600k
+24-Mohamed Ismail: Centre-Back, 25, €250k
+4-Mohamed Samir: Centre-Back, 37, €100k
+5-Ahmed Tarek: Centre-Back, 23, €100k
+6-Islam Abdellah: Centre-Back, 23, €100k
+21-Mohamed Ashraf: Left-Back, 23, €250k
+28-Ahmed Zaki: Left-Back, 25, €125k
+8-Ahmed Sayed: Right-Back, 22, €200k
+15-Sameh Ibrahim: Right-Back, 26, €150k
+30-Ali Gamal: Right-Back, 25, €150k
+26-Peter Zilu Mutumosi: Defensive Midfield, 26, €200k
+55-Mahmoud Bolbol: Defensive Midfield, 26, €150k
+20-Hamdy Alaa: Defensive Midfield, 24, €150k
+18-Ahmed El-Saghiri: Central Midfield, 26, €350k
+37-Maata Magassa: Central Midfield, 21, €150k
+22-Amar Hamdy: Central Midfield, 25, €125k
+44-Maged Hany: Central Midfield, 21, €100k
+35-Muhammed Sawaneh: Central Midfield, 20, €75k
+19-Abdelrahman Emad: Attacking Midfield, 25, €75k
+10-Mostafa Ziko: Left Winger, 27, €800k
+19-Abdelrahman El Banouby: Left Winger, 24, €400k
+25-Abel Yalew: Left Winger, 28, €175k
+14-Ahmed Adel: Left Winger, 27, €125k
+7-Mostafa Saad: Right Winger, 23, €300k
+32-Rafaat Khalil: Right Winger, 20, €250k
+9-Shady Hussein: Centre-Forward, 31, €500k
+13-Dilson: Centre-Forward, 27, €150k
+27-Rasheed Ahmed: Centre-Forward, 24, €125k
+72-Muhsini Malima: Centre-Forward, 23, €25k

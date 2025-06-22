@@ -1,0 +1,34 @@
+18-Mahmoud El Zanfaly: Goalkeeper, 32, €200k
+30-Mohamed Seha: Goalkeeper, 23, €50k
+47-Ayman Ragab: Goalkeeper, 27, €60k
+16-Mohamed Fawzi: Goalkeeper, 28, €100k
+4-Islam Abou-Salima: Centre-Back, 31, €200k
+12-Ahmed Emad: Centre-Back, 29, €200k
+88-Abdo Gouda: Centre-Back, 21, €75k
+35-Ibrahim Abdelhakim: Centre-Back, 21, €25k
+40-Momen Awad: Centre-Back, 23, €30k
+44-Youssef Sabra: Centre-Back, 21, €30k
+12-Ehab Samir: Left-Back, 31, €200k
+66-Mostafa Kajo: Left-Back, 27, €50k
+17-Mohamed El Deghemy: Right-Back, 31, €150k
+55-Henok Adugna: Right-Back, 29, €100k
+14-Mohamed Ashraf Roqa: Defensive Midfield, 31, €150k
+20-Emeka Christian Eze: Defensive Midfield, 31, €150k
+65-Ahmed Taema: Defensive Midfield, 21, €75k
+56-Youssef Marie: Defensive Midfield, 25, €57k
+21-Abdalahi Oubeid: Midfielder, - 23, €70k
+32-Kouassi Kuassiso: Midfielder - 20-€80k
+22-Omar Saviola: Central Midfield, 30, €250k
+6-Mohamed Magli: Central Midfield, 28, €100k
+26-Mohamed El Kout: Central Midfield, 25, €160k
+11-Mohamed Mostafa: Attacking Midfield, 22, €180k
+74-Mahmoud Ouka: Left Winger, 21, €50k
+7-Mohamed Farouk: Right Winger, 35, €100k
+10-Fawzi El Henawy: Right Winger, 26, €50k
+13-Amr Gamal: Centre-Forward, 33, €150k
+31-Ikechukwu Nwani: Centre-Forward, 26, €100k
+33-Mohamed El Negely: Centre-Forward, 24, €150k
+9-Mahmoud Mamdouh: Centre-Forward, 22, €150k
+29-Mahmoud Abou-Gouda: Centre-Forward, 26, €150k
+77-Mofossé Karidioula: Centre-Forward, 26, €60k
+99-Hazem Mohamed: Centre-Forward, 21, €100k

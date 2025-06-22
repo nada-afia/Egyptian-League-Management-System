@@ -1,0 +1,71 @@
+Team name : Al Ahly
+Team id : 1
+Team Owner : Marcel Koller
+
+Team name : Zamalek
+Team id : 2
+Team Owner : Jose Gomes
+
+Team name : Ittihad Alexandria
+Team id : 3
+Team Owner : Nikodimos Papavasiliou
+
+Team name : El Masry
+Team id : 4
+Team Owner : Ali Maher
+
+Team name : Pyramids
+Team id : 5
+Team Owner : Krunoslav Jurcic
+
+Team name : Smouha
+Team id : 6
+Team Owner : Ahmed Sami
+
+Team name : Tala'ea El Gaish
+Team id : 7
+Team Owner : Abdel Hamid Bassiouni
+
+Team name : Cleopatra
+Team id : 8
+Team Owner : Ayman El Ramadi
+
+Team name : Petrojet
+Team id : 9
+Team Owner : Said Eid
+
+Team name : Modern Sport
+Team id : 10
+Team Owner : Talat Youssef
+
+Team name : El Gouna
+Team id : 11
+Team Owner : Alaa Abdel Muttal
+
+Team name : Ghazl El Mahalla
+Team id : 12
+Team Owner : Ahmed Eid Abdel Malk
+
+Team name : National Bank of Egypt
+Team id : 13
+Team Owner : Tarek Mostafa
+
+Team name : ENPPI
+Team id : 14
+Team Owner : Sayed Yassin
+
+Team name : ZED
+Team id : 15
+Team Owner : Magdy Abdel Aty
+
+Team name : Pharco
+Team id : 16
+Team Owner : Ahmed Khattab
+
+Team name : Ismaily
+Team id : 17
+Team Owner : Hamed Ibrahim
+
+Team name : Haras El Hodoud
+Team id : 18
+Team Owner : Mohamed Youssef

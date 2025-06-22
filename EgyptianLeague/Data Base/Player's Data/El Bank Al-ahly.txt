@@ -1,0 +1,32 @@
+16,Gabaski,Goalkeeper,35,0.5
+1,Ahamed Sobhi,Goalkeeper,30,0.15
+27,Abdelaziz El Balouti,Goalkeeper,30,0.15
+31,Alpha Boubacar Keita,Defender,21,0.2
+4,Saïdou Simporé,Centre-Back,32,0.35
+2,Mohamed Abdelghani,Centre-Back,31,0.25
+6,Mahmoud El Gazar,Centre-Back,26,0.25
+12,Ayman Ashraf,Centre-Back,33,0.25
+20,Amir Medhat,Centre-Back,33,0.05
+29,Ahmed Yassin,Centre-Back,27,0.05
+11,Issahaku Yakubu,Left-Back,30,0.45
+7,Hesham Salah,Right-Back,27,0.35
+26,Mousa Farawi,Right-Back,26,0.1
+23,Mohamed Bassiouny,Right-Back,35,0.075
+24,Shefo,Right-Back,23,0.025
+5,Mohamed Fathi,Defensive Midfield,30,0.45
+14,Serge Arnaud Aka,Defensive Midfield,30,0.15
+15,Ahmed El Nadry,Central Midfield,25,0.15
+35,Adham Hamed,Central Midfield,24,0.075
+13,Ahmed Rabie,Central Midfield,23,0.075
+17,Ahmed Said,Central Midfield,27,0.05
+32,Mostafa Iva,Central Midfield,25,0.025
+25,Mohamed Helal,Attacking Midfield,29,0.6
+10,Mohamed Ibrahim,Attacking Midfield,32,0.5
+21,Ahmed Madbouli,Attacking Midfield,29,0.4
+30,Yaw Annor,Left Winger,26,0.6
+41,Sayed Abdallah,Right Winger,24,0.15
+28,Mohamed Grendo,Right Winger,33,0.15
+19,Mostafa Shehata,Right Winger,23,0.025
+8,Ahmed Yasser Rayan,Centre-Forward,26,0.8
+9,Osama Faisal,Centre-Forward,23,0.4
+34,Oumar Yacine Doumbouya,Striker,20,0.3

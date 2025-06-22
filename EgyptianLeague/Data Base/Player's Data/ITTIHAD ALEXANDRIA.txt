@@ -1,0 +1,35 @@
+1 - El Mahdi Soliman - Goalkeeper - 37 years old - €350k
+16 - Sobhi Soliman - Goalkeeper - 27 years old - €300k
+47 - Ahmed Daador - Goalkeeper - 29 years old - €€75k
+3 - Kabaka - Goalkeeper - 21 years old - €€75k
+14 - Abdallah Bakri - Centre-Back - 30 years old - €200k
+6 - Mahmoud Metwaly - Centre-Back - 31 years old - €200k
+5 - Mahmoud Shabana - Centre-Back - 29 years old - €175k
+17 - Mohamed El Maghraby - Centre-Back - 23 years old - €100k
+70 - Mostafa Ibrahim - Centre-Back - 24 years old - €75k
+33 - Karim El Deeb - Left-Back - 29 years old - €350k
+2 - Marwan Daoud - Left-Back - 27 years old - €100k
+26 - Karim Yehia - Right-Back - 26 years old - €150k
+71 - Ahmed Ayman - Right-Back - 30 years old - €€75k
+18 - Filipe Nascimento - Defensive Midfield - 29 years old - €350k
+8 - Salifu Moro - Defensive Midfield - 25 years old - €250k
+72 - Naser Naser - Defensive Midfield - 28 years old - €100k
+12 - Hany El Tamy - Defensive Midfield - 25 years old - €50k
+24 - Omar El Wahsh - Central Midfield - 29 years old - €300k
+4 - Amr Saleh - Central Midfield - 28 years old - €150k
+38 - Ahmed El Shimi - Central Midfield - 29 years old - €100k
+73 - Mohamed Fares - Central Midfield - 21 years old - €25k
+74 - Gebna - Attacking Midfield - 29 years old - €300k
+7 - Mazen Ashraf - Attacking Midfield - 21 years old - €50k
+11 - Benjamin Bernard Boateng - Left Winger - 23 years old - €300k
+28 - Hesham Balaha - Left Winger - 28 years old - €150k
+22 - Ahmed Eid - Left Winger - 25 years old - €75k
+75 - Abdelghani Mohamed - Right Winger - 22 years old - €150k
+76 - Sadiq Isyaka - Right Winger - 19 years old - €75k
+19 - Adegboyega Olamilekan - Right Winger - 18 years old - €75k
+9 - Emmanuel Apeh - Centre-Forward - 28 years old - €450k
+20 - Fady Farid - Centre-Forward - 27 years old - €350k
+99 - Bekale Aubame - Centre-Forward - 21 years old - €75k
+77 - Islam Samir - Centre-Forward - 25 years old - €75k
+78 - Amr Gomaa - Centre-Forward - 25 years old - €75k
+

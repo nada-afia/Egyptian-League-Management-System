@@ -1,0 +1,35 @@
+1 - El-Hani Soliman - Goalkeeper - 40 years old - €100k
+16 - Mohamed Ashraf - Goalkeeper - 27 years old - €50k
+29 - Hussein Taimour - Goalkeeper - 24 years old - €50k
+31 - Mahmoud Ismail - Goalkeeper - 20 years old - €€25k
+4 - Mido Mostafa - Centre-Back - 30 years old - €400k
+24 - Barakat Haggag - Centre-Back - 27 years old - €150k
+26 - Mohamed Ragab - Centre-Back - 25 years old - €150k
+37 - Mohamed Rabia - Centre-Back - 28 years old - €100k
+12 - Abdallah Bostangy - Centre-Back - 19 years old - €25k
+11 - Mahmoud Wahid - Left-Back - 30 years old - €200k
+2 - Sherif Reda - Right-Back - 27 years old - €250k
+6 - Hesham Hafez - Right-Back - 23 years old - €75k
+73 - Abdelrahman Amer - Defensive Midfield - 33 years old - €200k
+13 - Halimo - Defensive Midfield - 29 years old - €100k
+33 - Adham Hamada - Defensive Midfield - 27 years old - €€25k
+7 - Mahmoud Saber - Central Midfield - 23 years old - €400k
+36 - Canaria - Central Midfield - 25 years old - €300k
+15 - Dokou Dodo - Central Midfield - 20 years old - €300k
+30 - Islam Gaber - Central Midfield - 28 years old - €200k
+99 - Bibo Ahmed Hassan - Central Midfield - 22 years old - €50k
+80 - Ahmed Ali Amin - Central Midfield - 20 years old - €50k
+25 - Kone Mohamed - Central Midfield - 18 years old - €€25k
+10 - Islam Ateya - Attacking Midfield - 25 years old - €50k
+19 - Abdelkabir El Ouadi - Left Winger - 31 years old - €600k
+20 - Mostafa El Badry - Left Winger - 27 years old - €200k
+27 - Ashraf Magdy - Left Winger - 27 years old - €200k
+22 - Junior Ajayi - Left Winger - 28 years old - €200k
+28 - Ahmed Khaled - Left Winger - 26 years old - €150k
+17 - Juhayna - Left Winger - 24 years old - €€25k
+8 - Abdellatif Benkassou - Right Winger - 21 years old - €175k
+14 - Abubakar Liadi - Right Winger - 21 years old - €150k
+23 - Mohamed Said - Right Winger - 22 years old - €100k
+18 - Samuel Amadi - Right Winger - 21 years old - €75k
+9 - Hossam Hassan - Centre-Forward - 31 years old - €600k
+72 - Mohamed Salem - Centre-Forward - 30 years old - €350k
